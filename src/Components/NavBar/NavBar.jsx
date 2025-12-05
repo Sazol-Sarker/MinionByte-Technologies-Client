@@ -43,7 +43,7 @@ const NavBar = () => {
              {links}
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">MinionByte</a>
+          <Link to="/" className="btn btn-ghost text-2xl font-bold">MinionByte</Link>
         </div>
         {/* <div className="navbar-center hidden lg:flex"> */}
         <div className=" items-center hidden lg:flex">
